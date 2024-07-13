@@ -1,8 +1,9 @@
 # Dashboard_using_powerBI_healthacare_analysis
 # Healthcare Insights Dashboard
-**Project Overview**</b>
-This Power BI dashboard project was commissioned by Acme Healthcare Solutions to provide comprehensive data-driven insights into their healthcare operations. The primary objectives of this project were:</b>
-</b>**</b>
+**Project Overview**</b>  
+</b>
+This Power BI dashboard project was commissioned by Acme Healthcare Solutions to provide comprehensive data-driven insights into their healthcare operations. The primary objectives of this project were:</b></b>
+</b>**</b>  </b>
 Patient Information Tracking:</b> Analyze key patient details, including admission, discharge, and follow-up dates, to better understand patient journeys.********</b>
 Billing and Insurance Coverage: </b>Uncover insights into the total billing amounts, health insurance coverage, and the financial implications of different diagnosis types.****</b></b>
 Bed Occupancy Trends: </b>Visualize bed occupancy patterns, categorized by bed type (Private, General, ICU), to identify peak utilization periods and optimize resource allocation.</b>
@@ -20,11 +21,11 @@ Diagnosis-wise Statistics:</b> Analyzes the distribution and prevalence of vario
 **Impact and Benefits**
 
 
-
+</b></b></b>
 
 
 This comprehensive Power BI dashboard empowers Acme Healthcare Solutions with data-driven insights to optimize their healthcare operations. The key benefits of this project include:
-
+</b>
 **Improved patient tracking and care coordination</b>**
 Enhanced financial management through better understanding of billing and insurance coverage</b>
 Optimized bed utilization and resource allocation</b>
