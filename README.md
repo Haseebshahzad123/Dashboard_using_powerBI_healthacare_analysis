@@ -2,14 +2,14 @@
 # Healthcare Insights Dashboard
 **Project Overview**</b>
 This Power BI dashboard project was commissioned by Acme Healthcare Solutions to provide comprehensive data-driven insights into their healthcare operations. The primary objectives of this project were:</b>
-******</b>**
-Patient Information Tracking: Analyze key patient details, including admission, discharge, and follow-up dates, to better understand patient journeys.********</b>
-Billing and Insurance Coverage: Uncover insights into the total billing amounts, health insurance coverage, and the financial implications of different diagnosis types.****</b>
-Bed Occupancy Trends: Visualize bed occupancy patterns, categorized by bed type (Private, General, ICU), to identify peak utilization periods and optimize resource allocation.</b>
-Doctor Performance Evaluation: Assess overall doctor feedback scores to recognize top-performing physicians and identify areas for improvement.</b>
-Diagnosis-wise Statistics: Investigate the distribution and prevalence of various diagnosis types, such as Viral Infection, Flu, Malaria, Typhoid, Pneumonia, and Fracture.**</b>
+</b>**</b>
+Patient Information Tracking:</b> Analyze key patient details, including admission, discharge, and follow-up dates, to better understand patient journeys.********</b>
+Billing and Insurance Coverage: </b>Uncover insights into the total billing amounts, health insurance coverage, and the financial implications of different diagnosis types.****</b></b>
+Bed Occupancy Trends: </b>Visualize bed occupancy patterns, categorized by bed type (Private, General, ICU), to identify peak utilization periods and optimize resource allocation.</b>
+Doctor Performance Evaluation:</b> Assess overall doctor feedback scores to recognize top-performing physicians and identify areas for improvement.</b>
+Diagnosis-wise Statistics: </b>Investigate the distribution and prevalence of various diagnosis types, such as Viral Infection, Flu, Malaria, Typhoid, Pneumonia, and Fracture.**</b>
 **
-**Key Features******</b></b>****
+**Key Features**</b></b>
 **The Power BI dashboard developed for this project includes the following key features:**
 </b>
 Patient Information Dashboard: </b>Provides an overview of patient details, including admission, discharge, and follow-up dates.
